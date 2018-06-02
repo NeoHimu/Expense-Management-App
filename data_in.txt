@@ -1,0 +1,13 @@
+Shyam Ram 20
+Piyush Ravi 45
+Ravi Ram 100
+Mahi Shiva 210
+Shiva Ravi 55
+Piyush Mahi 30
+Ravi Mahi 20
+Shyam Ravi 25
+Shyam Piyush 30
+Ram Shiva 45
+Ram Mahi 90
+Piyush Ram 50
+Shiva Piyush 50

@@ -1,0 +1,7 @@
+digraph N { 
+"Mahi" -> "Ram"[label="35"]
+"Mahi" -> "Ravi"[label="5"]
+"Mahi" -> "Shiva"[label="30"]
+"Piyush" -> "Shiva"[label="45"]
+"Shyam" -> "Shiva"[label="75"]
+}

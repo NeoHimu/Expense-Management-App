@@ -1,0 +1,15 @@
+digraph M { 
+Shyam -> Ram[label="20"]
+Piyush -> Ravi[label="45"]
+Ravi -> Ram[label="100"]
+Mahi -> Shiva[label="210"]
+Shiva -> Ravi[label="55"]
+Piyush -> Mahi[label="30"]
+Ravi -> Mahi[label="20"]
+Shyam -> Ravi[label="25"]
+Shyam -> Piyush[label="30"]
+Ram -> Shiva[label="45"]
+Ram -> Mahi[label="90"]
+Piyush -> Ram[label="50"]
+Shiva -> Piyush[label="50"]
+}
